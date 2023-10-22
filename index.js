@@ -1,6 +1,6 @@
 Information = {
   home: {
-    name: "Harsh RB",
+    name: "Shaikh Aman",
     job: "Web Developer",
     others: "Artiest, Content Creator, Gamer",
     skills: ["Web Developer", "Artiest", "Content Creator", "Gaming"],
